@@ -1,0 +1,19 @@
+git init
+git status
+git add (name file)
+git add -A
+git commit -m 'comnet'
+git commit
+(to save comned you need perss ctrl+c)
+and type :wq to save and exit
+git diff
+git diff stage
+git git reset 'file name'
+(to back add files)
+git checkout -- 'file name'
+git branch
+git branch NAME (make new brachs)
+git checkout NAME (to switch to new branch)
+git merge BranchName
+git rm filename (to remove file)
+git bracng -d Branchname(to delete branchs)
